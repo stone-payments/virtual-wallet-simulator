@@ -18,7 +18,7 @@ neomodel==3.2.5
 pathtools==0.1.2
 Pycco==0.5.1
 pycparser==2.18
-pycryptodomex==3.4.6
+pycryptodomex==3.19.1
 Pygments==2.2.0
 pystache==0.5.4
 pytz==2017.2
